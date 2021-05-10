@@ -23,6 +23,7 @@ def get_path(path):
         if len(dir_list) <= 0:
             flag = False
     return file_list        
+
 def process_the_file(path,filetype):
     file_list = get_path(path)
     for file in file_list:
