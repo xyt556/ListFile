@@ -19,12 +19,13 @@
 第二个代表文件类型。
 
 <h2>示例：</h2>
-这是一个thinkphp的项目，我想要获取它当前目录和子目录下的所有文件
+这是一个thinkphp的项目，我想要获取它当前目录和子目录下的文件
+
 此时复制它的路径，并添加\
 
 ![avatar](https://github.com/KOFighting/ListFile/blob/main/1620681317(1).jpg)
 
-假如我只想要php类型文件
+<h3>假如我只想要php类型文件</h3>
 
 
 python3 ListFile.py E:\1\thinkphp-master\ php
@@ -32,7 +33,7 @@ python3 ListFile.py E:\1\thinkphp-master\ php
 
 ![avatar](https://github.com/KOFighting/ListFile/blob/main/1620680922(1).jpg)
 
-假如我想获取全部文件路径
+<h3>假如我想获取全部文件和目录的路径</h3>
 
 python3 ListFile.py E:\1\thinkphp-master\ *
 
@@ -40,6 +41,6 @@ python3 ListFile.py E:\1\thinkphp-master\ *
 ![avatar](https://github.com/KOFighting/ListFile/blob/main/1620681082(1).jpg)
 
 
-获取后的文件将保存在file.txt中
+获取后的文件和目录将保存在file.txt中
 
 ![avatar](https://github.com/KOFighting/ListFile/blob/main/1620681167(1).jpg)
