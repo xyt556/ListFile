@@ -7,8 +7,8 @@
 ![avatar](https://github.com/jjddrr/ListFile/blob/main/1620668213(1).jpg)
 
 
-用法：python3 ListFile.py dir
-usage:  python3 ListFile.py dir
+用法：python3 ListFile.py E:\thinkphp-master\
+usage:  python3 ListFile.py E:\thinkphp-master\
 
 ![avatar](https://github.com/jjddrr/ListFile/blob/main/1620667891(1).jpg)
 
